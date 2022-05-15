@@ -5,7 +5,7 @@
 # Configure this variable to change the install location of code-connect
 CODE_CONNECT_INSTALL_DIR=~/.code-connect
 
-CODE_CONNECT_BASE_URL="https://raw.githubusercontent.com/chvolkmann/code-connect/main"
+CODE_CONNECT_BASE_URL="https://raw.githubusercontent.com/picklefan/code-connect/dev"
 
 
 ####
